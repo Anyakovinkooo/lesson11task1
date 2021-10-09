@@ -1,0 +1,14 @@
+div > div {
+    width: 100px;
+    height: 100px;
+    background: coral;
+  }
+ .container1 {
+    display: none;
+}
+.container2 {
+    visibility: hidden;
+}
+.container3 {
+    visibility: visible;
+}
